@@ -66,7 +66,7 @@ Key contributions of this project include:
 ---
 
 ## 👨‍💻 Contributors  
-- **Aradhya K** – Electronics Engineer | Antenna Designer | Python Automation   
+- **Shreyas Aradhya K** – Electronics Engineer    
 
 ---
 
